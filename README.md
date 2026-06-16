@@ -30,6 +30,6 @@ The Riemann Hypothesis emerges as a **necessary consistency condition** of unita
 Riemann Hypothesis • Hilbert–Pólya conjecture • negentropic geometry • synthetic curvature-dimension condition • Floquet operator • GUE statistics • Clifford algebra • constructal law • quantum consciousness • PtCoO₂ delafossite
 
 ### Citation
-Please cite the Zenodo DOI (to be added after upload) or the PDF directly.
+Federico Maya. (2026). RENASCENT-Q Theory and the Federico Maya Eternity Theorem: A Geometric Realization of the Hilbert–Pólya Conjecture and Candidate to Proof the Riemann Hypothesis. v.15 (v.15). Zenodo. https://doi.org/10.5281/zenodo.20722552
 
-**Pura vida.**
+
